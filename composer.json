@@ -1,0 +1,15 @@
+{
+    "name": "brunoduarte/resetpassword-magento1",
+    "type": "module",
+    "authors": [{
+        "name": "Bruno Duarte",
+        "email": "bruno.duarte@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "classmap": [
+        "."
+      ]
+    }
+}
