@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <BrunoDuarte_ResetPassword>
+            <version>1.0.0</version>
+        </BrunoDuarte_ResetPassword>
+    </modules>
+    <global>
+        <helpers>
+            <resetpassword>
+                <class>BrunoDuarte_ResetPassword_Helper</class>
+            </resetpassword>
+        </helpers>
+    </global>
+</config>

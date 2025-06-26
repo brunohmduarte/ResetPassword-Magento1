@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <BrunoDuarte_ResetPassword>
+            <active>true</active>
+            <codePool>vendor</codePool>
+        </BrunoDuarte_ResetPassword>
+    </modules>
+</config>
